@@ -1,1 +1,1 @@
-# Program-Menghitung-Upah-Gaji-Per-Jam-Pegawai-Algoritma-1
+# Program Menghitung Upah Gaji Per Jam Pegawai
